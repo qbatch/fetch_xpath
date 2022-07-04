@@ -1,0 +1,7 @@
+{
+  websites:
+    walmart: {
+      price: "//span[@itemprop='price']",
+      upc: 'upc":"(.*?)"'
+    }
+}
